@@ -26,13 +26,3 @@ You can install the development version of praiseme from [GitHub](https://github
 # install.packages("devtools")
 devtools::install_github("lennoxhemingway/Praiseme")
 ```
-
-## Example
-
-
-```{r example}
-library(praiseme)
-## basic example code
-## praise(name = "Steph", punctuation = "!")
-```
-
